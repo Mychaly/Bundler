@@ -1,0 +1,14 @@
+E:\Bundler\Bundler\bin\Release\net8.0\Bundler.exe
+E:\Bundler\Bundler\bin\Release\net8.0\Bundler.deps.json
+E:\Bundler\Bundler\bin\Release\net8.0\Bundler.runtimeconfig.json
+E:\Bundler\Bundler\bin\Release\net8.0\Bundler.dll
+E:\Bundler\Bundler\bin\Release\net8.0\Bundler.pdb
+E:\Bundler\Bundler\obj\Release\net8.0\Bundler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bundler\Bundler\obj\Release\net8.0\Bundler.AssemblyInfoInputs.cache
+E:\Bundler\Bundler\obj\Release\net8.0\Bundler.AssemblyInfo.cs
+E:\Bundler\Bundler\obj\Release\net8.0\Bundler.csproj.CoreCompileInputs.cache
+E:\Bundler\Bundler\obj\Release\net8.0\Bundler.dll
+E:\Bundler\Bundler\obj\Release\net8.0\refint\Bundler.dll
+E:\Bundler\Bundler\obj\Release\net8.0\Bundler.pdb
+E:\Bundler\Bundler\obj\Release\net8.0\Bundler.genruntimeconfig.cache
+E:\Bundler\Bundler\obj\Release\net8.0\ref\Bundler.dll

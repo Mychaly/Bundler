@@ -1,0 +1,5 @@
+E:\Bundler\publish\Bundler.exe
+E:\Bundler\publish\Bundler.dll
+E:\Bundler\publish\Bundler.deps.json
+E:\Bundler\publish\Bundler.runtimeconfig.json
+E:\Bundler\publish\Bundler.pdb
